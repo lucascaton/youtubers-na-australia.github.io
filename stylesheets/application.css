@@ -4,21 +4,6 @@
   overflow: hidden;
 }
 
-#title {
-  position: fixed;
-  padding: 20px;
-  top: 0;
-  left: 0;
-  height: 50px;
-  width: 40%;
-  z-index: 9999;
-  background-color: white;
-  opacity: 0.8;
-  text-align: center;
-  font-family: 'Open Sans', 'Droid Sans', 'Tahoma', sans-serif;
-  color: #333;
-}
-
 iframe {
   overflow: hidden;
   overflow-x: hidden;
